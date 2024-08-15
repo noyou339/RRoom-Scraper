@@ -131,3 +131,5 @@ dist
 
 
 .env
+[url "git@github.com:"]
+    insteadOf = https://github.com/
